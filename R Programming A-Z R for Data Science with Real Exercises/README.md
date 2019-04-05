@@ -1,4 +1,4 @@
-# R Programming A-Z: R for Data Science with Real Exercises:
+# R Programming A-Z: R for Data Science with Real Exercises
 ## This file will be used to track notes, code and progress for R Programming A-Z Udemy course
 ### Course taught by Kirill Eremenko
 
