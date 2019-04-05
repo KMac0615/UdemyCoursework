@@ -1,6 +1,6 @@
-# This file will be used to track notes, code and progress for R Programming A-Z Udemy course
-## Course taught by Kirill Eremenko
-### Re-started cousre on 4/4/2019; Goal is to complete by 
+# R Programming A-Z: R for Data Science with Real Exercises:
+## This file will be used to track notes, code and progress for R Programming A-Z Udemy course
+### Course taught by Kirill Eremenko
 
 Course Layout:
 
