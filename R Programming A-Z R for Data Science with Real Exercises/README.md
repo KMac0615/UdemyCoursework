@@ -5,7 +5,7 @@
 Course Layout:
 
 - [] Section 1 - Hitting the Ground Running
-	- [] Welcome to the R Programming Course!
+	- [x] Welcome to the R Programming Course!
 	- [] Updates on Udemy Reviews
 	- [] Installing R and R Studio (MAC & Windows)
 	- [] Exercise - Get Excited!
