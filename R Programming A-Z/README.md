@@ -1,19 +1,19 @@
 # R Programming A-Z: R for Data Science with Real Exercises
-## This file will be used to track notes, code and progress for R Programming A-Z Udemy course
+## This file will be used to track progress for R Programming A-Z Udemy course
 ### Course taught by Kirill Eremenko; Course files located at https://www.superdatascience.com/pages/rcourse
 
 Course Layout:
 
-- [] Section 1 - Hitting the Ground Running
+- [x] Section 1 - Hitting the Ground Running
 	- [x] Welcome to the R Programming Course!
 	- [x] Updates on Udemy Reviews
 	- [x] Installing R and R Studio (MAC & Windows)
 	- [x] Exercise - Get Excited!
 	- [x] Some Additional Resources!!
 - [] Section 2 - Core Programming Principles
-	- [] Welcome to this section. This is what you will learn!
-	- [] Types of variables
-	- [] Using Variables
+	- [x] Welcome to this section. This is what you will learn!
+	- [x] Types of variables
+	- [x] Using Variables
 	- [] Logical Variables and Operators
 	- [] The "While" Loop
 	- [] Using the console
