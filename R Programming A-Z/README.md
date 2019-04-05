@@ -10,7 +10,7 @@ Course Layout:
 	- [x] Installing R and R Studio (MAC & Windows)
 	- [x] Exercise - Get Excited!
 	- [x] Some Additional Resources!!
-- [] Section 2 - Core Programming Principles
+- [x] Section 2 - Core Programming Principles
 	- [x] Welcome to this section. This is what you will learn!
 	- [x] Types of variables
 	- [x] Using Variables
