@@ -14,14 +14,14 @@ Course Layout:
 	- [x] Welcome to this section. This is what you will learn!
 	- [x] Types of variables
 	- [x] Using Variables
-	- [] Logical Variables and Operators
-	- [] The "While" Loop
-	- [] Using the console
-	- [] The "For" Loop
-	- [] The "If" statement
-	- [] Section Recap
-	- [] HOMEWORK: Law of Large Numbers
-	- [] Quiz 1: Core Programming Principles
+	- [x] Logical Variables and Operators
+	- [x] The "While" Loop
+	- [x] Using the console
+	- [x] The "For" Loop
+	- [x] The "If" statement
+	- [x] Section Recap
+	- [x] HOMEWORK: Law of Large Numbers
+	- [x] Quiz 1: Core Programming Principles
 - [] Section 3 - Fundamentals of R
 	- [] Welcome to this section. This is what you will learn!
 	- [] What is a Vector?
@@ -85,7 +85,7 @@ Course Layout:
 	- [] HOMEWORK: Movie Domestic % Gross
 	- [] Quiz 5: Advanced Visualization with GGPlot2
 - [] Section 7 - Homework Solutions
-	- [] Homework Solution Section 2: Law of Large Numbers
+	- [x] Homework Solution Section 2: Law of Large Numbers
 	- [] Homework Solution Section 3: Financial Statement Analysis
 	- [] Homework Solution Section 4: Basketball Free Throws
 	- [] Homework Solution Section 5: World Trends
