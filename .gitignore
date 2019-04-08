@@ -1,3 +1,6 @@
 # Files to remain untracked
 
 .viminfo
+.bash_history
+.gitconfig
+.Rhistory
