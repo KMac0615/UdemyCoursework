@@ -23,12 +23,12 @@ Course Layout:
 	- [x] HOMEWORK: Law of Large Numbers
 	- [x] Quiz 1: Core Programming Principles
 - [] Section 3 - Fundamentals of R
-	- [] Welcome to this section. This is what you will learn!
-	- [] What is a Vector?
-	- [] Let's create some vectors
-	- [] Using the "[]" brackets
-	- [] Vectorized operations
-	- [] The power of vectorized operations
+	- [x] Welcome to this section. This is what you will learn!
+	- [x] What is a Vector?
+	- [x] Let's create some vectors
+	- [x] Using the "[]" brackets
+	- [x] Vectorized operations
+	- [x] The power of vectorized operations
 	- [] Functions in R
 	- [] Packages in R
 	- [] Section Recap
