@@ -115,3 +115,53 @@ git add .
 git commit -m 'Updated progress in README.md'
 git push -u origin master
 git status
+pwd
+cd "C:\Users\Kelly\Documents\Udemy\R Programming A-Z
+"
+cd "C:\Users\Kelly\Documents\Udemy\R Programming A-Z\Section 3"
+cd .
+pwd
+cd "C:\Users\Kelly\Documents\Udemy\R Programming A-Z"
+ls
+cd "C:\Users\Kelly\Documents\Udemy\R Programming A-Z\Section 2"
+ls
+git mv "Notes and Exercises.R" "Section 2 - Notes and Exercises.R"
+ls
+git status
+cd ..
+cd ..
+pwd
+cd "C:\Users\Kelly\Documents\Udemy\R Programming A-Z"
+ls
+vim README.md
+vim README.md
+vim README.md
+ls
+git rm .README.md.swp
+vim README.md
+vim README.md
+vim README.md
+git status
+git add .
+git commit -m 'Updated notes and exercises for Section 3'
+git push
+git status
+cd ..
+ls
+cd 'C:\Users\Kelly\Documents\Udemy\R Programming A-Z'
+ls
+cd ..
+ls
+vim .gitignore
+git status
+git add .
+git commit -m 'updated .gitignore'
+git push
+git status
+vim README.md
+git rm README.md
+pwd
+ls
+git rm README.md
+git rm 'README.md'
+git status

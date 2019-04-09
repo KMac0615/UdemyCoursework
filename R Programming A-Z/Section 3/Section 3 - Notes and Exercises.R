@@ -143,12 +143,48 @@ for(i in 1:N){
 }
 
 
+####################################################################################
+############################## Functions in R ######################################
+####################################################################################
 
+## Functions we've covered so far
 
+rnorm()
 
+c()
+seq()
+rep()
 
+print()
 
+is.numeric()
+is.integer()
+is.double()
+is.character()
 
+typeof()
+
+sqrt()
+paste()
+
+# ? ; how R allows you to bring up help
+
+?seq
+
+# Numerous ways to format some functions
+# Some functions have default parameters if you don't specify
+
+rnorm(5) # default mean and sd values of 0 and 1, respectively
+rnorm(5,10,8) # now mean and sd have been specifically set
+rnorm(n = 5, mean = 10, sd = 8) # same as above but specifically naming the input parameters
+rnorm(n=5, sd = 8) # Can also pass all, some, or no optional parameters
+
+# Another example like rnorm()
+?seq
+seq(10)
+seq(10,20)
+seq(10,20,2)
+seq(from = 10, to = 20, by = 2)
 
 
 
