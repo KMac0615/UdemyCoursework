@@ -29,8 +29,8 @@ Course Layout:
 	- [x] Using the "[]" brackets
 	- [x] Vectorized operations
 	- [x] The power of vectorized operations
-	- [] Functions in R
-	- [] Packages in R
+	- [x] Functions in R
+	- [x] Packages in R
 	- [] Section Recap
 	- [] HOMEWORK: Financial Statement Analysis
 	- [] Quiz 2: Fundamentals of R
