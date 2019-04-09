@@ -31,7 +31,7 @@ Course Layout:
 	- [x] The power of vectorized operations
 	- [x] Functions in R
 	- [x] Packages in R
-	- [] Section Recap
+	- [x] Section Recap
 	- [] HOMEWORK: Financial Statement Analysis
 	- [] Quiz 2: Fundamentals of R
 - [] Section 4 - Matrices
