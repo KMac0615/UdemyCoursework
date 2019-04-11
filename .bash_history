@@ -165,3 +165,29 @@ ls
 git rm README.md
 git rm 'README.md'
 git status
+git status
+git add .
+git commit -m 'updated section 3 notes and exercises'
+git push
+git status
+pwd
+cd "C:\Users\Kelly\Documents\Udemy\R Programming A-Z"
+vim README.md
+vim README.md
+git status
+git add .
+git commit -m 'completed section 3 notes and exercises'
+git push
+cd ..
+touch README.md
+vim README.md
+cd "C:\Users\Kelly\Documents\Udemy\R Programming A-Z"
+git add .
+git commit -m 'added .R file for section 3 homework'
+git push
+git status
+cd ..
+git add .
+git commit -m 'created README.md for Udemy repository'
+git push
+git status
