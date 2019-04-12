@@ -22,7 +22,7 @@ Course Layout:
 	- [x] Section Recap
 	- [x] HOMEWORK: Law of Large Numbers
 	- [x] Quiz 1: Core Programming Principles
-- [] Section 3 - Fundamentals of R
+- [x] Section 3 - Fundamentals of R
 	- [x] Welcome to this section. This is what you will learn!
 	- [x] What is a Vector?
 	- [x] Let's create some vectors
@@ -32,8 +32,8 @@ Course Layout:
 	- [x] Functions in R
 	- [x] Packages in R
 	- [x] Section Recap
-	- [] HOMEWORK: Financial Statement Analysis
-	- [] Quiz 2: Fundamentals of R
+	- [x] HOMEWORK: Financial Statement Analysis
+	- [x] Quiz 2: Fundamentals of R
 - [] Section 4 - Matrices
 	- [] Welcome to this section. This is what you will learn!
 	- [] Project Brief: Basketball Trends
