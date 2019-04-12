@@ -32,7 +32,7 @@ Course Layout:
 	- [x] Functions in R
 	- [x] Packages in R
 	- [x] Section Recap
-	- [] HOMEWORK: Financial Statement Analysis
+	- [x] HOMEWORK: Financial Statement Analysis
 	- [] Quiz 2: Fundamentals of R
 - [] Section 4 - Matrices
 	- [] Welcome to this section. This is what you will learn!
@@ -86,7 +86,7 @@ Course Layout:
 	- [] Quiz 5: Advanced Visualization with GGPlot2
 - [] Section 7 - Homework Solutions
 	- [x] Homework Solution Section 2: Law of Large Numbers
-	- [] Homework Solution Section 3: Financial Statement Analysis
+	- [x] Homework Solution Section 3: Financial Statement Analysis
 	- [] Homework Solution Section 4: Basketball Free Throws
 	- [] Homework Solution Section 5: World Trends
 	- [] Homework Solution Section 6: Movie Domestic % Gross (Part I)
