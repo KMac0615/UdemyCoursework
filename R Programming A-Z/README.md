@@ -22,7 +22,7 @@ Course Layout:
 	- [x] Section Recap
 	- [x] HOMEWORK: Law of Large Numbers
 	- [x] Quiz 1: Core Programming Principles
-- [] Section 3 - Fundamentals of R
+- [x] Section 3 - Fundamentals of R
 	- [x] Welcome to this section. This is what you will learn!
 	- [x] What is a Vector?
 	- [x] Let's create some vectors
