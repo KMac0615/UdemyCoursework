@@ -22,7 +22,7 @@ Course Layout:
 	- [x] Section Recap
 	- [x] HOMEWORK: Law of Large Numbers
 	- [x] Quiz 1: Core Programming Principles
-- [x] Section 3 - Fundamentals of R
+- [] Section 3 - Fundamentals of R
 	- [x] Welcome to this section. This is what you will learn!
 	- [x] What is a Vector?
 	- [x] Let's create some vectors
@@ -86,7 +86,7 @@ Course Layout:
 	- [] Quiz 5: Advanced Visualization with GGPlot2
 - [] Section 7 - Homework Solutions
 	- [x] Homework Solution Section 2: Law of Large Numbers
-	- [] Homework Solution Section 3: Financial Statement Analysis
+	- [x] Homework Solution Section 3: Financial Statement Analysis
 	- [] Homework Solution Section 4: Basketball Free Throws
 	- [] Homework Solution Section 5: World Trends
 	- [] Homework Solution Section 6: Movie Domestic % Gross (Part I)
