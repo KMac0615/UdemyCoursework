@@ -35,10 +35,10 @@ Course Layout:
 	- [x] HOMEWORK: Financial Statement Analysis
 	- [x] Quiz 2: Fundamentals of R
 - [] Section 4 - Matrices
-	- [] Welcome to this section. This is what you will learn!
-	- [] Project Brief: Basketball Trends
-	- [] Matrices
-	- [] Building Your First Matrix
+	- [x] Welcome to this section. This is what you will learn!
+	- [x] Project Brief: Basketball Trends
+	- [x] Matrices
+	- [x] Building Your First Matrix
 	- [] Naming Dimensions
 	- [] Colnames() and Rownames()
 	- [] Matrix Operations
