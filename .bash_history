@@ -191,3 +191,37 @@ git add .
 git commit -m 'created README.md for Udemy repository'
 git push
 git status
+git status
+ls
+git add .
+git commit -m 'syncing before continuing work'
+git push
+git status
+git checkout -b section-3-homework
+pwd
+cd 'C:\Users\Kelly\Documents\Udemy\R Programming A-Z'
+vim README.md
+git add .
+git commit -m 'homework for section 3'
+git push -u origin section-3-homework
+git checkout master
+git branch
+git branch -d section-3-homework
+git status
+vim README.md
+git add .
+git commit -m 'updated README.md'
+git push
+git fetch --all
+git pull
+git status
+git pull
+git fetch --all
+git status
+git add .
+git status
+git commit -m 'updated readme.md'
+git push
+git status
+git status
+git add .
