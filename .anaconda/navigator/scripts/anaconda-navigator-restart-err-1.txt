@@ -1,0 +1,11 @@
+2019-10-10 14:53:38,027 - ERROR download_api._download:234
+Invalid url https://www.anaconda.com/wp-content/uploads/2017/05/Webinar20-20Three20Ways20to20Move20your20Data20Science20Projects20to20Production.png
+
+Traceback (most recent call last):
+  File "C:\Users\Kelly\Anaconda3\lib\site-packages\anaconda_navigator\widgets\main_window.py", line 2859, in closeEvent
+    if not self.restart_required and not self.closing():
+  File "C:\Users\Kelly\Anaconda3\lib\site-packages\anaconda_navigator\widgets\main_window.py", line 2805, in closing
+    for p in proc.children(recursive=True):
+  File "C:\Users\Kelly\Anaconda3\lib\site-packages\psutil\__init__.py", line 362, in wrapper
+    raise NoSuchProcess(self.pid, self._name)
+psutil.NoSuchProcess: psutil.NoSuchProcess process no longer exists (pid=15128)

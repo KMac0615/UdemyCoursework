@@ -1,0 +1,15 @@
+[I 14:54:45.218 NotebookApp] The port 8888 is already in use, trying another port.
+[I 14:54:45.220 NotebookApp] The port 8889 is already in use, trying another port.
+[I 14:54:45.221 NotebookApp] The port 8890 is already in use, trying another port.
+[I 14:54:45.223 NotebookApp] The port 8891 is already in use, trying another port.
+[I 14:54:45.630 NotebookApp] Serving notebooks from local directory: C:\Users\Kelly\UdemyCoursework
+[I 14:54:45.630 NotebookApp] 0 active kernels
+[I 14:54:45.630 NotebookApp] The Jupyter Notebook is running at:
+[I 14:54:45.631 NotebookApp] http://localhost:8892/?token=f18b32dd1c76b478b320d668903bf625fab3e5cf1bb3e8ae
+[I 14:54:45.631 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 14:54:45.633 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8892/?token=f18b32dd1c76b478b320d668903bf625fab3e5cf1bb3e8ae
+[I 14:54:45.818 NotebookApp] Accepting one-time-token-authenticated connection from ::1

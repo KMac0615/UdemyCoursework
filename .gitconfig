@@ -2,6 +2,11 @@
 	email = kmac0615@gmail.com
 	name = Kelly McDonough
 [winUpdater]
-	recentlySeenVersion = 2.21.0.windows.1
+	recentlySeenVersion = 2.23.0.windows.1
 [credential]
 	helper = manager
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process

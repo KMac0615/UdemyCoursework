@@ -1,0 +1,23 @@
+[I 14:45:19.103 NotebookApp] The port 8888 is already in use, trying another port.
+[I 14:45:19.105 NotebookApp] The port 8889 is already in use, trying another port.
+[I 14:45:19.106 NotebookApp] The port 8890 is already in use, trying another port.
+[I 14:45:19.107 NotebookApp] The port 8891 is already in use, trying another port.
+[I 14:45:19.108 NotebookApp] The port 8892 is already in use, trying another port.
+[I 14:45:19.520 NotebookApp] Serving notebooks from local directory: C:\Users\Kelly\UdemyCoursework
+[I 14:45:19.520 NotebookApp] 0 active kernels
+[I 14:45:19.520 NotebookApp] The Jupyter Notebook is running at:
+[I 14:45:19.521 NotebookApp] http://localhost:8914/?token=834bac75a5ac3923c8838eb84149e8aace2de1ce265509ca
+[I 14:45:19.521 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 14:45:19.523 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8914/?token=834bac75a5ac3923c8838eb84149e8aace2de1ce265509ca
+[I 14:45:19.755 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 14:45:32.778 NotebookApp] New terminal with automatic name: 1
+[W 14:46:45.614 NotebookApp] Forbidden
+[W 14:46:45.615 NotebookApp] 403 GET /api/sessions?_=1570736720474 (::1) 3.00ms referer=http://localhost:8914/tree
+[W 14:46:45.617 NotebookApp] Forbidden
+[W 14:46:45.618 NotebookApp] 403 GET /api/terminals?_=1570736720475 (::1) 2.00ms referer=http://localhost:8914/tree
+[I 14:49:49.952 NotebookApp] EOF on FD 960; stopping reading
+[I 14:49:50.055 NotebookApp] Terminal 1 closed
