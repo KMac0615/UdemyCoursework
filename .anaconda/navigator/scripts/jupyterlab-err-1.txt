@@ -27,3 +27,4 @@ Known labextensions:
 [I 17:59:25.644 LabApp] Kernel started: 84e8de3d-b3ef-400b-9ffb-c66c6b2dddbe
 [I 17:59:30.646 LabApp] Adapting to protocol v5.1 for kernel 84e8de3d-b3ef-400b-9ffb-c66c6b2dddbe
 [I 17:59:51.291 LabApp] Starting buffering for 84e8de3d-b3ef-400b-9ffb-c66c6b2dddbe:aaa847307e1e038eba8e9bb93c9592e7
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
