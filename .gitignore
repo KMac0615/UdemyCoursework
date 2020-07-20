@@ -1,7 +1,29 @@
 # Files to remain untracked
 
-.viminfo
-.bash_history
-.gitconfig
-.Rhistory
-.Rproj.user
+# Python
+.ipynb_checkpoints/
+.conda/
+.ipython/
+.jupyter/
+.pylint.d/
+
+# R
+*.Rhistory
+*.Rproj.user
+
+# Git
+*.viminfo
+*.bash_history
+*.gitconfig
+
+# text/reports
+*.txt
+*.pdf
+*.csv
+*.xlsx
+*.xls
+*.zip
+*.pbix
+*.png
+*.db
+*.ini
