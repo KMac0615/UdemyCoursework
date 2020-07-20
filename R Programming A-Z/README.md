@@ -34,63 +34,63 @@ Course Layout:
 	- [x] Section Recap
 	- [x] HOMEWORK: Financial Statement Analysis
 	- [x] Quiz 2: Fundamentals of R
-- [] Section 4 - Matrices
+- [ ] Section 4 - Matrices
 	- [x] Welcome to this section. This is what you will learn!
 	- [x] Project Brief: Basketball Trends
 	- [x] Matrices
 	- [x] Building Your First Matrix
-	- [] Naming Dimensions
-	- [] Colnames() and Rownames()
-	- [] Matrix Operations
-	- [] Visualizing with Matplot()
-	- [] Subsetting
-	- [] Visualizing Subsets
-	- [] Creating your First Function
-	- [] Basketball Insights
-	- [] Section Recap
-	- [] HOMEWORK: Basketball Free Throws
-	- [] Quiz 3: Matrices
-- [] Section 5 - Data Frames
-	- [] Welcome to this section. This is what you will learn!
-	- [] Project Brief: Demographic Analysis
-	- [] Importing data into R
-	- [] Exploring your dataset
-	- [] Using the $ sign
-	- [] Basic operations with a Data Frame
-	- [] Filtering a Data Frame
-	- [] Introduction to qplot
-	- [] Visualizing with Qplot: Part I
-	- [] Building Dataframes
-	- [] Merging Data Frames
-	- [] Visualizing with Qplot: Part II
-	- [] Section Recap
-	- [] HOMEWORK: World Trends
-	- [] Quiz 4: Data Frames
-- [] Section 6 - Advanced Visualization with GGPlot2
-	- [] Welcome to this section. This is what you will learn!
-	- [] Project Brief: Movie Ratings
-	- [] Grammar of Graphics - GGPlot2
-	- [] What is a Factor?
-	- [] Aesthetics
-	- [] Plotting with Layers
-	- [] Overriding Aesthetics
-	- [] Mapping vs Setting
-	- [] Histograms and Density Charts
-	- [] Starting Layer Tips
-	- [] Statistical Transformations
-	- [] Using Facets
-	- [] Coordinates
-	- [] Perfecting by Adding Themes
-	- [] Section Recap
-	- [] HOMEWORK: Movie Domestic % Gross
-	- [] Quiz 5: Advanced Visualization with GGPlot2
-- [] Section 7 - Homework Solutions
+	- [ ] Naming Dimensions
+	- [ ] Colnames() and Rownames()
+	- [ ] Matrix Operations
+	- [ ] Visualizing with Matplot()
+	- [ ] Subsetting
+	- [ ] Visualizing Subsets
+	- [ ] Creating your First Function
+	- [ ] Basketball Insights
+	- [ ] Section Recap
+	- [ ] HOMEWORK: Basketball Free Throws
+	- [ ] Quiz 3: Matrices
+- [ ] Section 5 - Data Frames
+	- [ ] Welcome to this section. This is what you will learn!
+	- [ ] Project Brief: Demographic Analysis
+	- [ ] Importing data into R
+	- [ ] Exploring your dataset
+	- [ ] Using the $ sign
+	- [ ] Basic operations with a Data Frame
+	- [ ] Filtering a Data Frame
+	- [ ] Introduction to qplot
+	- [ ] Visualizing with Qplot: Part I
+	- [ ] Building Dataframes
+	- [ ] Merging Data Frames
+	- [ ] Visualizing with Qplot: Part II
+	- [ ] Section Recap
+	- [ ] HOMEWORK: World Trends
+	- [ ] Quiz 4: Data Frames
+- [ ] Section 6 - Advanced Visualization with GGPlot2
+	- [ ] Welcome to this section. This is what you will learn!
+	- [ ] Project Brief: Movie Ratings
+	- [ ] Grammar of Graphics - GGPlot2
+	- [ ] What is a Factor?
+	- [ ] Aesthetics
+	- [ ] Plotting with Layers
+	- [ ] Overriding Aesthetics
+	- [ ] Mapping vs Setting
+	- [ ] Histograms and Density Charts
+	- [ ] Starting Layer Tips
+	- [ ] Statistical Transformations
+	- [ ] Using Facets
+	- [ ] Coordinates
+	- [ ] Perfecting by Adding Themes
+	- [ ] Section Recap
+	- [ ] HOMEWORK: Movie Domestic % Gross
+	- [ ] Quiz 5: Advanced Visualization with GGPlot2
+- [ ] Section 7 - Homework Solutions
 	- [x] Homework Solution Section 2: Law of Large Numbers
 	- [x] Homework Solution Section 3: Financial Statement Analysis
-	- [] Homework Solution Section 4: Basketball Free Throws
-	- [] Homework Solution Section 5: World Trends
-	- [] Homework Solution Section 6: Movie Domestic % Gross (Part I)
-	- [] Homework Solution Section 6: Movie Domestic % Gross (Part II)
-- [] Section 8 - Bonus Tutorial
-	- [] BoxPlots
-	- [] Your Special Bonus!
+	- [ ] Homework Solution Section 4: Basketball Free Throws
+	- [ ] Homework Solution Section 5: World Trends
+	- [ ] Homework Solution Section 6: Movie Domestic % Gross (Part I)
+	- [ ] Homework Solution Section 6: Movie Domestic % Gross (Part II)
+- [ ] Section 8 - Bonus Tutorial
+	- [ ] BoxPlots
+	- [ ] Your Special Bonus!
