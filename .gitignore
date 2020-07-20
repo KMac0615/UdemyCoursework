@@ -6,10 +6,13 @@
 .ipython/
 .jupyter/
 .pylint.d/
+.anaconda/
+.condarc
 
 # R
 *.Rhistory
 *.Rproj.user
+*.Rproj
 
 # Git
 *.viminfo
